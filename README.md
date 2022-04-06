@@ -1,5 +1,6 @@
 <h1 align="center">
 
+  
   <br>
   <img src="packages/syft/docs/img/monorepo_logo2.png" alt="Syft + Grid" width="400">
   <br>
